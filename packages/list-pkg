@@ -1,0 +1,20 @@
+Package: haxe
+Version: 1:4.2.5-1
+Architecture: arm64
+Maintainer: Andy Li <andy@onthewings.net>
+Installed-Size: 32478
+Depends: neko (>= 2.0.0), libc6 (>= 2.34), libmbedcrypto7 (>= 2.28.0), libmbedtls14 (>= 2.28.0), libmbedx509-1 (>= 2.28.0), libneko2, libpcre3, libuv1 (>= 1.42.0), zlib1g (>= 1:1.2.0)
+Filename: ./packages/haxe.deb
+Size: 6731112
+MD5sum: 51a12a3c903b600a153eb0641db8e8c5
+SHA1: 550ae0b3db71f0bd38b707ebfd9472e5eeda24ca
+SHA256: 376e22c04b397871f804fa3125f8ee115fbda237fe14e6c960b65ca9789db188
+Section: devel
+Priority: optional
+Homepage: https://haxe.org
+Description: multi-target universal programming language
+ Haxe is an open source toolkit based on a modern,
+ high level, strictly typed programming language, a cross-compiler,
+ a complete cross-platform standard library and ways to access each
+ platform's native capabilities.
+
